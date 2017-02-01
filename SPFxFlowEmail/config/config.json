@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spFxFlowEmail/SpFxFlowEmailWebPart.js",
+      "manifest": "./src/webparts/spFxFlowEmail/SpFxFlowEmailWebPart.manifest.json",
+      "outputPath": "./dist/sp-fx-flow-email.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "spFxFlowEmailStrings": "webparts/spFxFlowEmail/loc/{locale}.js"
+  }
+}

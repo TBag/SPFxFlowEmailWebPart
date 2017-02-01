@@ -1,0 +1,23 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "5502c465-89f9-48fa-95a2-6cd24bf4d7ce",
+  "alias": "SpFxFlowEmailWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "5502c465-89f9-48fa-95a2-6cd24bf4d7ce",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SPFx Flow Email" },
+    "description": { "default": "Calls a Microsoft Flow to send email." },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SPFx Flow Email web part",
+      "emailAddress": "",
+      "emailSubject": "SPFX Flow Email web part message",
+      "emailBody": "Hello, This message has been busy.  It went from a SPFx web part, to a Microsoft Flow, to Office 365 Outlook, to you!"
+    }
+  }]
+}

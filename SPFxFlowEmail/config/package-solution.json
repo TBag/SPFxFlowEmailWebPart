@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-fx-flow-email-client-side-solution",
+    "id": "9a762fd5-3418-4c45-89d9-db697ddd2cda",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-flow-email.sppkg"
+  }
+}
